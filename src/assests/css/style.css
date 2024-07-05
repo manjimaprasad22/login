@@ -1,0 +1,32 @@
+.banner{
+    width: 100%;
+}
+.login-button, .login-button:hover{
+    background: var(--bg, linear-gradient(94deg, #001f60 0%, #1c49a6 33.82%, #4a70d0 64.66%, #ff3e94 100%));
+    color: #fff;
+    border-radius: 36px;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 15px 30px;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin-top: 20px;
+}
+.social button{
+    margin: 3px;
+    margin-bottom: 20px;
+}
+.logo{
+    display: block; 
+    margin: 0 auto; 
+    margin-bottom: 50px;
+}
+
+.error{
+    color: red;
+    font-size: small;
+}
+.detail{
+    padding: 0 70px;
+}
